@@ -2,4 +2,3 @@ hi this is junaid here
 now i am updating the this file in dev branch
 and this is just eg content
 1234
-this is test line for git revert command
